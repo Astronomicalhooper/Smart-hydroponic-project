@@ -1,3 +1,4 @@
+[Hydroponic_System_README.pdf](https://github.com/user-attachments/files/29418600/Hydroponic_System_README.pdf)
 # Smart-hydroponic-project
 # Smart Fully Automated Vertical Hydroponic System
 Author: Samuel Nathan Bobai
